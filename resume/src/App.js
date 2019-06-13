@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import hammergif from "./img/hammergif.gif";
 
 class App extends Component {
   render() {
