@@ -10,3 +10,5 @@
 - {x} Should include 3-4 fully completed projects
 - {x} Contact section
 - {x} Either have a contact email form, or a place that has your contact information easily accessible
+
+updated push for deploy
